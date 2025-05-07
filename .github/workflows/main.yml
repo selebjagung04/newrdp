@@ -7,7 +7,7 @@ jobs:
   build:
     name: Start Building...
     runs-on: windows-latest
-    timeout-minutes: 360  # Set to 6 hours (360 minutes)
+    timeout-minutes: 36
 
     steps:
 name: Downloading & Installing Essentials
